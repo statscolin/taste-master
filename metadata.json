@@ -1,0 +1,5 @@
+{
+  "name": "Taste Master: Bayesian Bartender",
+  "description": "A pixel-art 3D optimization game where you compete against a Bayesian algorithm to find the perfect flavor profile.",
+  "requestFramePermissions": []
+}
