@@ -11,7 +11,7 @@ export class AudioService {
   play() {
     if (!this.audio) {
       // The file must be in the 'public' folder in your project root
-      this.audio = new Audio('/bgm.mp3');
+      this.audio = new Audio('./bgm.mp3');
       this.audio.loop = true;
       this.audio.volume = 0.5; // Adjust volume as needed (0.0 to 1.0)
     }
