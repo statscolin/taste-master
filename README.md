@@ -1,4 +1,4 @@
 A bartending game based on Bayesian optimization algorithm.  
+The project ideas are in Project Ideas.pdf.  
 Project URL: https://statscolin.github.io/taste-master  
-The project ideas are in Project ideas.pdf  
 Enjoy it 🍺.
