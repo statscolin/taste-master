@@ -1,3 +1,3 @@
 A bartending game based on Bayesian optimization algorithm.  
-Project URL: https://your-project-url.example  
+Project URL: https://statscolin.github.io/taste-master
 Enjoy it 🍺.
